@@ -14,3 +14,5 @@ I made change in branch master.
 I made change 1 in branch dev.
 
 I made change 2 in branch dev.
+
+I made change 3 in branch dev.
