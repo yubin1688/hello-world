@@ -22,3 +22,5 @@ I made change 4 in branch dev.
 I made change 5 in branch dev.
 
 I made change 6 in branch dev.
+
+I fixed issue 01 in branch issue-01.
