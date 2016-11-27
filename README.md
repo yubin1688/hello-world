@@ -24,3 +24,5 @@ I made change 5 in branch dev.
 I made change 6 in branch dev.
 
 I fixed issue 01 in branch issue-01.
+
+I made change 7 in branch dev for testing stash feature.
